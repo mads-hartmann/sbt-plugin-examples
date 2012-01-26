@@ -8,7 +8,9 @@ The following project contains three plugins
 
 The `playground` project shows a convenient way to depend on your
 plugin locally so you get a fast turn-around in development when 
-you just want to try out the plugin without having to publish it etc.
+you just want to try out the plugin without having to publish it etc. 
+you simply just make the changes to want to your plugin and then run `reload`
+in the playground project. 
 
 `cd` into the playground project and start an SBT shell: 
     
