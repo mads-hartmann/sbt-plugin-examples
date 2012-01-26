@@ -23,3 +23,8 @@ in the playground project.
     > new-task
     # play with the tab-completion (try pressing tab all the time)
     > ask-phase brian would you like to buy mads a beer?
+
+---
+    
+This was prepared for a talk on developing SBT Plugin I gave at PHASE meeting one 
+time in january 2012.
