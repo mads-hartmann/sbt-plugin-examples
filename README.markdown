@@ -4,7 +4,7 @@ The following project contains three plugins
 
 - A plugin that provides a command
 - A plugin that provides some settings 
-- a plugin that provides a command that with tab completion!
+- a plugin that provides a command with tab completion!
 
 The `playground` project shows a convenient way to depend on your
 plugin locally so you get a fast turn-around in development when 
