@@ -3,7 +3,7 @@
 ---
     
 This was prepared for a talk on developing SBT Plugin I gave at PHASE meeting one 
-time in january 2012. The presentation is [here](https://raw.github.com/mads379/sbt-plugin-examples/master/Building-SBT-Plugins.pdf "here"): 
+time in january 2012. The presentation is [here](https://raw.github.com/mads379/sbt-plugin-examples/master/Building-SBT-Plugins.pdf "here").
 
 ---
 
